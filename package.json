@@ -21,6 +21,7 @@
 		"type": "git",
 		"url": "git+https://github.com/trysignalbase/n8n-nodes-signalbase.git"
 	},
+	"packageManager": "pnpm@10.33.0",
 	"scripts": {
 		"build": "n8n-node build",
 		"build:watch": "tsc --watch",
